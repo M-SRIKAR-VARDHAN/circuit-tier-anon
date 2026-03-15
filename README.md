@@ -8,7 +8,7 @@
 
 **We strongly encourage reviewers to try our interactive 3D circuit visualization:**
 
-👉 **[Open Circuit Explorer](https://m-srikar-vardhan.github.io/circuit-tier-anon/explorer_final%20(1).html)** *(download and open in any browser — no install required)*
+👉 **[Open Circuit Explorer](https://anonymous.4open.science/w/circuit-tier-anon-188F/explorer_final%20(1).html)** *(download and open in any browser — no install required)*
 
 This self-contained HTML file lets you explore the full Gemma-2-2B circuit identified by CircuitTier. Features include:
 
